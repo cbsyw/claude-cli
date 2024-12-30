@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: claude-cli
+Version: 0.1.0
+Requires-Dist: anthropic
+Requires-Dist: python-dotenv
+Requires-Dist: rich
